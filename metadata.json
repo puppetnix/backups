@@ -1,0 +1,9 @@
+{
+  "name": "nix-backups",
+  "version": "0.1.0",
+  "author": "Artem Kobrin",
+  "license": "Apache v2 License",
+  "summary": "Backups Puppet Module",
+  "source": "https://github.com/puppetnix/backups.git",
+  "description": "This module install script for local full and incrimental backups and sync local backup to s3."
+}
